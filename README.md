@@ -1,2 +1,2 @@
 # HG_Gamedev
-Aquí desarrollando un juego
+Aquí desarrollando videojuegos
